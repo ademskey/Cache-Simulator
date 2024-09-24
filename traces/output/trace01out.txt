@@ -1,0 +1,17 @@
+L 0,1 miss 
+L 1,1 hit 
+L 2,1 miss 
+L 3,1 hit 
+S 4,1 miss eviction 
+L 5,1 hit 
+S 6,1 miss eviction 
+L 7,1 hit 
+S 8,1 miss eviction 
+L 9,1 hit 
+S a,1 miss eviction 
+L b,1 hit 
+S c,1 miss eviction 
+L d,1 hit 
+S e,1 miss eviction 
+M f,1 hit hit 
+hits:9 misses:8 evictions:6
